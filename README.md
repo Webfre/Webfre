@@ -1,16 +1,47 @@
-### Hi there 👋
+<img src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" height="500" width="1000" alt="webfre" />
+<h1 align="center">Hi 👋, I'm Roman, frontend developer from Russia</h1>
+<h3 align="center">I am developing a single-page application on React + TypeScript</h3>
 
-<!--
-**Webfre/Webfre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on - **Online hookah shop**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning - **React Native, write Tests to React**
+
+- 🤝 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
+
+- 🔝 I’m looking for help with - **Increasing skills**
+
+- 🌏 Geographically located - **Moscow, "cherkizovskaya" metro station**
+
+- 👨‍💻 All of my projects are available at - [https://vk.com/feed](https://vk.com/feed)
+
+- 📞 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://vk.com/id367096719)
+
+- 💬 Ask me about - **React, Redux, TypeScript, SPA**
+
+- 📧 How to reach me - **romain.muhametschin@yandex.ru 👇more**
+
+- 📄 Know about my experiences - [https://hh.ru/](https://hh.ru/)
+
+- ⚡ My education since 2016 to 2021 - **University education - Student. Federal State Autonomous Educational Institution of Higher Education "Russian University of Transport". Engineer of the SCB for ensuring the safety of railway transport**
+- ⚡ My education since 2022 to 2025 - **University education - Graduate Student. Yelets State University named after I. A. Bunin, Faculty of "Regional and Sectoral Economics"**
+
+<h3 align="left">My website:</h3>
+<a href="https://vk.com/id367096719" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/vkcom-189760.png" alt="webfre" height="33" width="33" /></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://vk.com/id367096719" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/vkcom-189760.png" alt="webfre" height="33" width="33" /></a>
+<a href="https://tgtg.su/romanwebfree" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1868973-1583137.png" alt="webfre" height="33" width="33" /></a>
+<a href="https://api.whatsapp.com/send?phone=79999797138&text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20%D1%8F%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83..." target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-43-189795.png" alt="webfre" height="33" width="33" /></a>
+<a href="https://discord.gg/baCdxHfeXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wenum#7288" height="30" width="40" /></a>
+<a href="https://codepen.io/webfre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="webfre" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21130923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21130923" height="30" width="40" /></a>
+<a href="https://codesandbox.com/webfre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="webfre" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webfre&show_icons=true&locale=en" alt="webfre" /></p>
