@@ -5,23 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-⚪️ I’m currently working on - **Online hookah shop**
+🔸 I’m currently working on - **Online hookah shop**
 
-- I’m currently learning - **React Native, write Tests to React**
+🔸 I’m currently learning - **React Native, write Tests to React**
 
-- I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
+🔸 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
 
-- I’m looking for help with - **Increasing skills**
+🔸 I’m looking for help with - **Increasing skills**
 
-- All of my projects are available at - [https://vk.com/feed](https://vk.com/feed)
+🔸 All of my projects are available at - [https://vk.com/feed](https://vk.com/feed)
 
-- 📞 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://vk.com/id367096719)
+🔸 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://vk.com/id367096719)
 
-- 💬 Ask me about - **React, Redux, TypeScript, SPA**
+🔸 Ask me about - **React, Redux, TypeScript, SPA**
 
-- 📧 How to reach me - **romain.muhametschin@yandex.ru 👇more**
+🔸 How to reach me - **romain.muhametschin@yandex.ru 👇more**
 
-- 📄 Know about my experiences - [https://hh.ru/](https://hh.ru/)
+🔸 Know about my experiences - [https://hh.ru/](https://hh.ru/)
 
 - ⚡ My education since 2016 to 2021 - **University education - Student. Federal State Autonomous Educational Institution of Higher Education "Russian University of Transport". Engineer of the SCB for ensuring the safety of railway transport**
 - ⚡ My education since 2022 to 2025 - **University education - Graduate Student. Yelets State University named after I. A. Bunin, Faculty of "Regional and Sectoral Economics"**
