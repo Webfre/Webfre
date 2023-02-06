@@ -24,6 +24,7 @@
 🔸 Know about my experiences - [https://hh.ru/](https://hh.ru/)
 
 👨‍🎓 My education since 2016 to 2021 - **University education - Student. Federal State Autonomous Educational Institution of Higher Education "Russian University of Transport". Engineer of the SCB for ensuring the safety of railway transport**
+
 👨‍🎓 My education since 2022 to 2025 - **University education - Graduate Student. Yelets State University named after I. A. Bunin, Faculty of "Regional and Sectoral Economics"**
 
 <h3 align="left">My website:</h3>
