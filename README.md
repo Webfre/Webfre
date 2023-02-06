@@ -1,21 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <img src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" height="500" width="1000" alt="webfre" />
-<h1 align="center">Hi 👋, I'm Roman, frontend developer from Russia</h1>
-<h3 align="center">I am developing a single-page application on React + TypeScript</h3>
+<h1 align="center">Hi 👋, I'm Roman, frontend developer</h1>
+<h3 align="center">I am developing a single-page application on React JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-- 🔭 I’m currently working on - **Online hookah shop**
+- I’m currently working on - **Online hookah shop**
 
-- 🌱 I’m currently learning - **React Native, write Tests to React**
+- I’m currently learning - **React Native, write Tests to React**
 
-- 🤝 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
+- I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
 
-- 🔝 I’m looking for help with - **Increasing skills**
+- I’m looking for help with - **Increasing skills**
 
-- 🌏 Geographically located - **Moscow, "cherkizovskaya" metro station**
-
-- 👨‍💻 All of my projects are available at - [https://vk.com/feed](https://vk.com/feed)
+- All of my projects are available at - [https://vk.com/feed](https://vk.com/feed)
 
 - 📞 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://vk.com/id367096719)
 
