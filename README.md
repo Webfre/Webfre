@@ -30,7 +30,7 @@
 👨‍🎓 My education since 2022 to 2025 - **University education - Graduate Student. Yelets State University named after I. A. Bunin, Faculty of "Regional and Sectoral Economics"**
 
 <h3 align="left">My website:</h3>
-<a href="https://webfre.github.io/profile/" target="_blank">Follow</a>
+<a href="https://webfre.github.io/profile/" target="_blank">https://webfre.github.io/profile/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
