@@ -9,17 +9,17 @@
 
 🔸 I’m currently working on - **Online hookah shop**
 
-🔸 I’m currently learning - **React Native, write Tests to React**
+🔸 I’m currently learning - **Tests to React**
 
 🔸 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
 
 🔸 I’m looking for help with - **Increasing skills**
 
-🔸 All of my projects are available at - [https://vk.com/feed](https://vk.com/feed)
+🔸 All of my projects are available at - [https://vk.com/feed](https://webfre.github.io/profile/)
 
-🔸 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://vk.com/id367096719)
+🔸 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://telegram.im/romanwebfree)
 
-🔸 Ask me about - **React, Redux, TypeScript, SPA**
+🔸 Ask me about - **React, Redux, TypeScript, MERN, SPA**
 
 🔸 How to reach me - **romain.muhametschin@yandex.ru 👇more**
 
