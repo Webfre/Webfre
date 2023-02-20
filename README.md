@@ -15,9 +15,9 @@
 
 🔸 I’m looking for help with - **Increasing skills**
 
-🔸 All of my projects are available at - [https://vk.com/feed](https://webfre.github.io/profile/)
+🔸 All of my projects are available at - [https://webfre.github.io/profile/](https://webfre.github.io/profile/)
 
-🔸 I'm in touch, write to me 24/7 - [https://vk.com/id367096719](https://telegram.im/romanwebfree)
+🔸 I'm in touch, write to me 24/7 - [https://telegram.im/romanwebfree](https://telegram.im/romanwebfree)
 
 🔸 Ask me about - **React, Redux, TypeScript, MERN, SPA**
 
