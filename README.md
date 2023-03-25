@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" height="300" width="600" alt="webfre" />
 </p>
-<h1 align="center">Hi 👋, I'm Roman, frontend developer</h1>
-<h3 align="center">I am developing a single-page application on React JS</h3>
+<h1 align="center">Hi 👋, I'm Roman</h1>
+<h3 align="center">I am a front-end developer on React JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
