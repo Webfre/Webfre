@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-🔸 I’m currently working on - **Online hookah shop**
-
 🔸 I’m currently learning - **Tests to React**
 
 🔸 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
@@ -19,7 +17,7 @@
 
 🔸 I'm in touch, write to me 24/7 - [https://telegram.im/romanwebfree](https://telegram.im/romanwebfree)
 
-🔸 Ask me about - **React, Redux, TypeScript, MERN, SPA**
+🔸 Ask me about - **React, Redux and RTK, TypeScript, MERN, SPA**
 
 🔸 How to reach me - **romain.muhametschin@yandex.ru 👇more**
 
