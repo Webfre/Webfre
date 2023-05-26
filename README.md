@@ -17,7 +17,7 @@
 
 🔸 How to reach me - **romain.muhametschin@yandex.ru 👇more**
 
-🔸 Know about my experiences - [https://hh.ru/](https://hh.ru/)
+🔸 Know about my experiences - [https://hh.ru](https://hh.ru/resume/ab8096f7ff0bf1c9eb0039ed1f514648384230)
 
 👨‍🎓 My education since 2016 to 2021 - **University education - Student. Federal State Autonomous Educational Institution of Higher Education "Russian University of Transport". Engineer of the SCB for ensuring the safety of railway transport**
 
