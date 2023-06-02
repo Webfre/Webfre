@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-🔸 I’m currently learning - **Tests to React**
-
 🔸 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
-
-🔸 I’m looking for help with - **Increasing skills**
 
 🔸 All of my projects are available at - [https://webfre.github.io/profile/](https://webfre.github.io/profile/)
 
