@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-🔸 I’m looking to collaborate on - **I am looking for cooperation with a creative and experienced development team**
-
-🔸 All of my projects are available at - [https://webfre.github.io/profile/](https://webfre.github.io/profile/)
-
-🔸 I'm in touch, write to me 24/7 - [https://telegram.im/romanwebfree](https://telegram.im/romanwebfree)
-
-🔸 Ask me about - **React, Redux and RTK, TypeScript, MERN, SPA**
+🔸 Ask me about - **React, Redux, Next, SPA**
 
 🔸 How to reach me - **romain.muhametschin@yandex.ru 👇more**
-
-🔸 Know about my experiences - [https://hh.ru](https://hh.ru/resume/ab8096f7ff0bf1c9eb0039ed1f514648384230)
 
 👨‍🎓 My education since 2016 to 2021 - **University education - Student. Federal State Autonomous Educational Institution of Higher Education "Russian University of Transport". Engineer of the SCB for ensuring the safety of railway transport**
 
